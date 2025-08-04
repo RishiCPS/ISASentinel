@@ -2579,6 +2579,11 @@
                 }
               ]
             },
+            "conditionalVisibility": {
+              "parameterName": "selectedTab1",
+              "comparison": "isEqualTo",
+              "value": "ScenariosExamples"
+            },
             "name": "group - 15"
           }
         ]
